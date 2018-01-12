@@ -1,0 +1,1 @@
+Flask fundamentals educational assignment at Coding Dojo
