@@ -17,3 +17,16 @@ label {
     display: inline-block;
     width: 170px;
 }
+
+#submitButton {
+    display: inline-block;
+    vertical-align: top;
+}
+#errorMessages {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.errorMessage {
+    color: red;
+}
